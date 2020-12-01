@@ -2,5 +2,7 @@ init git
 git is free software distributed under the GPL
 git tracks changes of files
 Creating a new branch is quick & simple
-create dev,so cool
+use stash
+create dev,so cool，yes
+
 
