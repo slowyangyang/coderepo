@@ -8,3 +8,4 @@ create dev,so cool，yes
 656
 change ssh is fail
 change ssh
+learn git the second day
